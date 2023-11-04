@@ -15,3 +15,16 @@ In this project, I undertook a comprehensive data engineering journey focused on
 9. **Data Integration:** The Dimensional Model was loaded into Snowflake, offering a robust and scalable data warehousing solution.
 10. **Data Visualization:** To analyze data effectively, I connected Power BI to Snowflake, creating insightful data visualizations.
 
+
+## Architecture:
+![Architecture diagram](https://github.com/abakash08/spotify-end-to-end-etl-project/blob/main/Architecture.jpg)
+
+## Tools and Their Use:
+
+**- Amazon S3:** Used for data storage, providing scalability and flexibility.
+- **Crawler:** Employed to automate schema extraction and data cataloging from S3, making data easily queryable.
+- Amazon Athena: Enabled ad-hoc SQL querying for data exploration and analysis.
+- AWS Glue: Utilized for ETL processing to transform and structure data.
+- Snowflake: Served as the data warehouse to store the Dimensional Model, providing robust data storage and management.
+- Power BI: Connected to Snowflake for data visualization and generating actionable insights.
+
