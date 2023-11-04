@@ -17,7 +17,7 @@ In this project, I undertook a comprehensive data engineering journey focused on
 
 
 ## Architecture:
-![Architecture diagram](https://github.com/abakash08/spotify-end-to-end-etl-project/blob/main/Architecture.jpg)
+![Architecture diagram](https://github.com/abakash08/covid-19-data-analysis-end-to-end-project/blob/main/Covid-19%20DE%20Architecture.png)
 
 ## Tools and Their Use:
 
